@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "totalResults": 0,
+  "articles": [
+  {
+  "title": "ULEZ: London mayor has power to expand ULEZ, High Court told - BBC",
+  "author": "BBC",
+  "Id": "google-news-uk",
+  "Name": "Google News (UK)",
+  "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/4b3b/live/02c5ede0-fbe2-11ed-b76f-774ca3890ed9.jpg.webp",
+  "publishedAt": "2023-07-05T12:53:36+00:00",
+  "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLWVuZ2xhbmQtbG9uZG9uLTY2MTA5OTI10gE5aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvdWstZW5nbGFuZC1sb25kb24tNjYxMDk5MjUuYW1w?oc=5"
+  },
+
+  {
+    "title": "South East buildings turn blue to mark NHS 75th anniversary - BBC",
+    "author": "BBC",
+    "Id": "google-news-uk",
+    "Name": "Google News (UK)",
+    "image": "https://www.searchenginejournal.com/wp-content/uploads/2020/03/8b988513-9095-4869-aa21-72bb5472f74f-5e6940c2afb08-760x400.webp",
+    "publishedAt": "2023-07-05T07:46:17+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLTY2MTA3MzQw0gEwaHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3VrLWVuZ2xhbmQtNjYxMDczNDAuYW1w?oc=5"
+    },
+
+    {
+      "title": "Honours of Scotland: Order of service for King's thanksgiving service - BBC",
+      "author": "BBC",
+      "Id": "google-news-uk",
+      "Name": "Google News (UK)",
+      "image": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2023/7/5/215d5f8c-0471-4c2d-8611-684deb5801ee.jpg",
+      "publishedAt": "2023-07-05T05:32:33+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLXNjb3RsYW5kLTY2MDg3NTIz0gEzaHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvdWstc2NvdGxhbmQtNjYwODc1MjMuYW1w?oc=5"
+      }
+]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "totalResults": 0,
+  "articles": [
+    {
+      "title": "Miley Cyrus has the biggest song of 2023... so far ",
+      "img":"https://media.glamour.com/photos/6419d53d366e2fdd7302180b/16:9/w_1280,c_limit/1472442512",
+      "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2VudGVydGFpbm1lbnQtYXJ0cy02NjEyMTU3NtIBOmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2VudGVydGFpbm1lbnQtYXJ0cy02NjEyMTU3Ni5hbXA?oc=5"
+      },
+
+      {
+        "title": "Proud James Middleton announces he's expecting his first child with wife",
+        "img": "https://people.com/thmb/IP71ep3ewV5Jd5meeB0Y-ybBF3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(788x120:790x122)/james-alizee-middleton-baby-070523-8c31bbe618b745e5a86610d1ca6bda51.jpg",
+        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRhdGxlci5jb20vYXJ0aWNsZS9wcm91ZC1qYW1lcy1taWRkbGV0b24tYW5ub3VuY2VzLWhlcy1leHBlY3RpbmctaGlzLWZpcnN0LWNoaWxkLXdpdGgtd2lmZS1hbGl6ZWUtdGhldmVuZXTSAQA?oc=5"
+        },
+        {
+          "title": "Coco Lee: The pioneering singer who charmed the world",
+          "img": "https://variety.com/wp-content/uploads/2023/07/coco-lee.jpg?w=1000",
+          "url": "https://variety.com/2023/music/news/coco-lee-dead-hong-kong-singer-songwriter-1235661920/"
+          }
+]
+}

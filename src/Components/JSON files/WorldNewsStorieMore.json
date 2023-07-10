@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "totalResults": 0,
+  "articles": [
+
+    {
+      "title": "The world's already in recession, this strategist argues",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2022/08/What_Happens_During_A_Recession____Getty_Images.jpeg.jpg",
+      "url": "https://www.marketwatch.com/story/the-worlds-already-in-recession-this-strategist-argues-and-most-markets-agree-90ca4e28"
+      },
+      {
+      "title": "Wagner boss Prigozhin is in Russia, Belarus ruler Lukashenko says",
+      "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/AFBE/production/_130209944_mediaitem130209942.jpg.webp",
+       "url": "https://www.bbc.co.uk/news/world-europe-66118007"
+      },
+      {
+      "title": "New record set for world's hottest day - as scientist warn it is a'death sentence'",
+      "img": "https://e3.365dm.com/23/07/1600x900/skynews-heat-sun-austin-texas_6208244.jpg?20230704215232",
+       "url": "https://news.sky.com/story/new-record-set-for-worlds-hottest-day-as-scientist-warns-milestone-is-a-death-sentence-12915050"
+        }
+
+  
+]
+}
